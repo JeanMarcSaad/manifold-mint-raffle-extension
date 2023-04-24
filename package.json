@@ -1,0 +1,14 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^0.6.1",
+    "@manifoldxyz/creator-core-solidity": "^3.0.0",
+    "@manifoldxyz/libraries-solidity": "^1.0.4",
+    "@openzeppelin/contracts": "^4.8.3"
+  }
+}
